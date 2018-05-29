@@ -1,0 +1,43 @@
+nav ul li a {
+	margin-right: 40px;
+	font-size: 18px;	
+}
+.form {
+	margin: auto;
+	max-width: 980px;
+	padding-top: 40px;
+}
+#address {
+	margin-top: 10px;
+}
+#totalPrice, #tprice {
+	background: yellow;
+	font-size: 18px;
+	font-weight: bold;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+#bulidPizza {
+	margin-left: 20px;
+}
+#toppings {
+	margin-left: 20px;
+}
+button {
+	margin-top: 20px;
+
+}
+#payment {
+	margin-left: 20px;
+}
+#cardNumberError {
+	color: red;
+}
+#footer {
+	background-color: black;
+	color: white;
+	height: 60px;
+	padding-top: 25px;
+	margin-top: 20px;
+	font-size: 14px;
+}
